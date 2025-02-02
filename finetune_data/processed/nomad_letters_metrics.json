@@ -1,0 +1,14 @@
+{
+  "total_examples": 202,
+  "rejected_examples": 3,
+  "token_stats": {
+    "min": 718,
+    "max": 1871,
+    "total": 288491,
+    "avg": 1428.1732673267327
+  },
+  "quality_metrics": {
+    "avg_alphanumeric_ratio": 0.7984989681489577,
+    "avg_sentence_length": 19.455429731667206
+  }
+}
