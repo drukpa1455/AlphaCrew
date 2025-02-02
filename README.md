@@ -2,6 +2,9 @@
 
 <div align="center">
 
+🤖 🏦 📊
+===
+
 **Intelligent Multi-Agent Hedge Fund Platform**
 
 🔄 Data Pipeline | 🧠 AI Agents | 📈 Trading | 🎯 Portfolio Management | 🔍 Analytics
