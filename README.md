@@ -2,7 +2,12 @@
 
 <div align="center">
 
-![AlphaCrew Logo](docs/assets/logo.png)
+🤖 🏦 📊
+===
+
+**Intelligent Multi-Agent Hedge Fund Platform**
+
+🔄 Data Pipeline | 🧠 AI Agents | 📈 Trading | 🎯 Portfolio Management | 🔍 Analytics
 
 Production-grade multi-agent hedge fund platform built with CrewAI Enterprise, integrating live trading via Alpaca, real-time monitoring in Grafana, workflow orchestration with Apache Airflow, vector storage with Pinecone, and human oversight via Slack.
 
